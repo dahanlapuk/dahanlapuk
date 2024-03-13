@@ -32,7 +32,7 @@ Saya senang menerima kontribusi! Jika Anda tertarik untuk berkolaborasi pada sal
 ## Statistik 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nama_pengguna&show_icons=true&theme=dark" alt="Statistik GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=dahanlapuk&show_icons=true&theme=dark" alt="Statistik GitHub">
 </p>
 
 Jangan ragu untuk menjelajahi repositori saya dan jangan sungkan untuk memberikan bintang pada proyek yang Anda sukai!
