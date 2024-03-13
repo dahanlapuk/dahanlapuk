@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/username/username/blob/main/assets/profile_banner.png" alt="Banner Profil">
+  <img src="https://github.com/username/username/blob/main/quotes-kierke-1.png" alt="Banner Profil">
 </p>
 
 # Halo, Saya Itba Muhammad Kamil. 👋
