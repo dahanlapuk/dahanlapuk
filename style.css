@@ -1,0 +1,313 @@
+/* Reset beberapa gaya default untuk mendapatkan titik awal yang bersih */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Atur jenis huruf */
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Atur warna latar belakang dan kontainer terpusat untuk konten */
+body {
+    background-color: #f8f8f8;
+}
+
+/* Gaya bagian header */
+header {
+    text-align: center;
+    background-color: #4a4a4a;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+/* Gaya bagian utama */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 20px;
+}
+
+main h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Gaya bagian informasi pribadi */
+#personal-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+#personal-info img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+
+#personal-info ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#personal-info li {
+    display: grid;
+    grid-template-columns: max-content minmax(0, 1fr);
+    gap: 10px;
+    align-items: center;
+}
+
+#personal-info strong {
+    justify-self: end;
+    white-space: nowrap;
+    width: 150px;
+}
+
+#personal-info span {
+    white-space: pre-line;
+}
+
+/* Gaya bagian kontak */
+#contact ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#contact li {
+    margin-bottom: 15px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+#contact li::before {
+    content: "";
+    position: absolute;
+    left: 30px;
+    top: 0;
+    height: 100%;
+    width: 2px;
+    background-color: #777;
+    opacity: 0.15;
+}
+
+#contact li strong {
+    width: 24px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+#contact li a {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #555;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+    position: relative;
+}
+
+#contact li a::before {
+    content: "";
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    right: -4px;
+    bottom: -4px;
+    background: linear-gradient(45deg, #fff, #ddd);
+    border-radius: 8px;
+    z-index: -1;
+}
+
+#contact li a:hover {
+    background-color: #666;
+    color: #fff;
+}
+
+#contact span {
+    margin-left: 10px;
+}
+
+/* Gaya untuk tombol sosial media dan teks */
+#social-media-list li {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-bottom: 5px;
+}
+
+#social-media-list img {
+    width: 24px;
+    margin-right: 5px;
+}
+
+#social-media-list a {
+    display: flex;
+    align-items: center;
+    padding: 8px 16px;
+    background-color: #555;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    position: relative;
+}
+
+#social-media-list a::before {
+    content: "";
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    right: -4px;
+    bottom: -4px;
+    background: linear-gradient(45deg, #fff, #ddd);
+    border-radius: 8px;
+    z-index: -1;
+}
+
+#social-media-list a:hover {
+    background-color: #666;
+}
+
+#social-media-list a:hover span {
+    color: #fff;
+}
+
+#social-media-list span {
+    margin-left: 5px;
+    flex: 1;
+}
+
+/* Gaya bagian riwayat pendidikan, keahlian, pengalaman, dan organisasi */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#education li {
+    margin-bottom: 10px;
+}
+
+#education li strong {
+    font-style: italic;
+}
+
+#education li span {
+    display: block;
+    font-style: italic;
+    margin-left: 0px;
+}
+
+/* Gaya bagian keahlian */
+#skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#skills li {
+    margin-bottom: 15px;
+    position: relative;
+}
+
+#skills i {
+    width: 24px;
+    margin-right: 5px;
+}
+
+#skills li::before {
+    content: "";
+    position: absolute;
+    left: 29px;
+    top: 0;
+    height: 100%;
+    width: 2px;
+    background-color: black;
+}
+
+#skills span {
+    margin-left: 10px;
+}
+
+/* Gaya untuk bagian footer */
+footer {
+    background-color: #4a4a4a;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Gaya untuk informasi versi */
+.version-info {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 12px;
+    color: #999;
+}
+
+/* Gaya untuk garis pemisah antar konten */
+section {
+    margin-bottom: 30px;
+    border-bottom: 4px solid #ccc;
+    padding-bottom: 20px;
+}
+
+/* Gaya untuk pemisah judul dengan isi konten */
+main h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Gaya responsif */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 24px;
+    }
+
+    main {
+        width: 90%;
+        padding: 10px;
+    }
+
+    main h2 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    #personal-info img {
+        width: 120px;
+    }
+}
