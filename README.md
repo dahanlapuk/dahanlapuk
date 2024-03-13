@@ -2,7 +2,7 @@
   <img src="https://github.com/username/username/blob/main/assets/profile_banner.png" alt="Banner Profil">
 </p>
 
-# Halo, Saya [Nama Anda] 👋
+# Halo, Saya Itba Muhammad Kamil. 👋
 
 Selamat datang di profil GitHub saya! Saya senang Anda berada di sini. Mari saya perkenalkan diri secara singkat:
 
@@ -14,7 +14,7 @@ Saya adalah Mahasiswa Ilmu Filsafat, Fakultas Ilmu Budaya Universitas Indonesia.
 
 Berikut adalah beberapa proyek teratas yang sedang saya kerjakan:
 
-- **[Curriculum Vitae] (Building!)** - Ini merupakan Proyek pertama saya!.
+- **Curriculum Vitae (Building!)** - Ini merupakan Proyek pertama saya!.
 
 
 ## Kontak 📬
