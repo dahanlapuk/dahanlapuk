@@ -14,7 +14,7 @@ Saya adalah Mahasiswa Ilmu Filsafat, Fakultas Ilmu Budaya Universitas Indonesia.
 
 Berikut adalah beberapa proyek teratas yang sedang saya kerjakan:
 
-- **Curriculum Vitae (Building!)** - Ini merupakan Proyek pertama saya!.
+- **[Portofolio Website](https://itbamuhammad01.web.app/)** - Ini merupakan Proyek pertama saya!.
 - **[Komafil Website](https://dahanlapuk.github.io/komafil) (V.1.0.0)** - Ini merupakan website mengenai Himpunan saya di UI!.
 
 
