@@ -12,19 +12,22 @@ Saya adalah Mahasiswa Ilmu Filsafat, Fakultas Ilmu Budaya Universitas Indonesia.
 
 ## Proyek Teratas 🚀
 
-Berikut adalah beberapa proyek teratas yang sedang saya kerjakan:
+Berikut adalah beberapa proyek teratas yang saya kerjakan:
 
 - **[Portofolio Website](https://itbamuhammad01.web.app/)** - Ini merupakan Proyek pertama saya!.
-- **[Komafil Website](https://dahanlapuk.github.io/komafil) (V.1.0.0)** - Ini merupakan website mengenai Himpunan saya di UI!.
+- **[JESSD Symposium](https://symposiumjessd.ui.ac.id/)** - Ini merupakan website acara simposium jurnal lingkungan (JESSD Symposium UI)!.
+- **[Vienna AI](https://vienna-ai.vercel/app)** - Proyek AI Filsafat yang akan menjawab segala pertanyaanmu mengenai filsafat!
+- **[GMNI DPC DEPOK Website](https://dahanlapuk.github.io/gmni-depok/)** - Proyek website organisasi pergerakan cabang depok.
 
 
 ## Kontak 📬
 
 Jika Anda ingin berkolaborasi atau sekadar mengobrol, jangan ragu untuk menghubungi saya di:
 
-- Email: [itba1206@gmail.com](mailto:itba1206@gmail.com)
+- Email: [Email Pribadi](mailto:itba1muhammadkamil@gmail.com) / [Email Kerjasama](mailto:itbamuhammad.dev@gmail.com)
 - LinkedIn: [Itba Muhammad Kamil](https://www.linkedin.com/in/itba-muhammad-kamil-6630b9249/)
 - Twitter: [@dahanlapuk](https://twitter.com/dahanlapuk)
+- Instagram : [Itba Muhammad Kamil](https://instagram.com/itbamuhammad_)
 
 ## Kontribusi 👥
 
